@@ -1,4 +1,4 @@
-# GEN_AI MUMBAI_HACKS RESTORE PHOTOS
+GEN_AI MUMBAI_HACKS RESTORE PHOTOS
 
 RestorePhotos.app is a website that utilizes cutting-edge Artificial Intelligence (AI) technology to restore old and blurry face photos. The website offers a free service that allows users to upload their photos and bring them back to life using the GFPGAN model from the Tencent ARC Lab.
 
